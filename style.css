@@ -1,0 +1,15 @@
+td{
+    color: blue;
+    border: solid;
+}
+div{
+    background-color: blue;
+    height: 3cm;
+    width: 3cm;
+    margin: 3cm;
+    font-family: Arial;
+    position: relative;
+}
+.foo:hover{
+color: blue;
+}
